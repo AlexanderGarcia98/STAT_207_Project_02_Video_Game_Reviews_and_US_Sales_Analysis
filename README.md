@@ -1,7 +1,7 @@
 # 🎮 Predictive Modeling on Video Game Sales
 
-**Author:** Yosef Stifanos  
-**Partner:** AJ Garcia  
+**Author:** AJ Garcia  
+**Partner:** Yosef Stifanos 
 **Dataset:** [Video Games Dataset (Portsmouth Research Portal)](https://researchportal.port.ac.uk/en/datasets/video-games-dataset)
 
 ## 📌 Overview
