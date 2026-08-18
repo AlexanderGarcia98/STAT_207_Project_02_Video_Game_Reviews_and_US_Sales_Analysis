@@ -43,7 +43,7 @@ This project applies both linear and logistic regression techniques to a dataset
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yosefstifanos/) or reach out via email at yosefstifanos30@gmail.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexander-garcia-7755a9333/) or reach out via email at a.garcia11004@gmail.com.
 
 ---
 
